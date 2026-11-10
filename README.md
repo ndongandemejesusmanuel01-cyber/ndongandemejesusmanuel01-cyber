@@ -1,76 +1,92 @@
 <!--
   ================================================================
   README DE PERFIL DE GITHUB · Jesús Manuel Ndong Andeme
+  Estilo "programador": terminal, editor de código y consola.
   ================================================================
   CÓMO USARLO
   1. Crea un repositorio PÚBLICO con el MISMO nombre que tu usuario:
      ndongandemejesusmanuel01-cyber / ndongandemejesusmanuel01-cyber
-     (GitHub muestra ese README en tu perfil automáticamente).
-  2. Sube a ese repositorio: este README.md, la carpeta assets/ y la carpeta .github/
+  2. Sube a la RAÍZ de ese repositorio: README.md, la carpeta assets/ y la carpeta .github/
   3. Busca los textos que empiezan por TU_ o NOMBRE_ y cámbialos por los tuyos.
-  4. Los comentarios como este NO se ven en GitHub. Puedes borrarlos cuando quieras.
+  4. Los comentarios como este NO se ven en GitHub. Puedes borrarlos.
+
+  Si ves la página "en blanco" o sin imágenes: comprueba que la carpeta assets/
+  está en la raíz del repositorio (al lado de README.md), no dentro de otra carpeta.
 -->
 
 
 <!-- ============ 1. CABECERA ANIMADA ============
-     Es una imagen SVG propia (assets/header.svg). Se anima sola:
-     olas, círculos flotando y frases que cambian. -->
+     assets/header.svg: lluvia de código estilo Matrix y tu nombre tecleándose. -->
 <div align="center">
   <img src="./assets/header.svg" alt="Jesús Manuel Ndong Andeme · Estudiante de DAW en Madrid" width="100%">
 </div>
 
-<!-- ============ 2. BOTONES / ENLACES ============
-     Cada botón es una insignia de shields.io con un enlace.
-     CAMBIA: TU-USUARIO-LINKEDIN, TU_CORREO@gmail.com y https://TU-PORTFOLIO.com -->
+<br>
+
+<!-- ============ 2. ENLACES (botones) ============
+     CAMBIA: TU-USUARIO-LINKEDIN, TU_CORREO@gmail.com y https://TU-PORTFOLIO.com
+     labelColor=0d1117 da el fondo oscuro de "editor" a todas las insignias. -->
 <p align="center">
   <a href="https://github.com/ndongandemejesusmanuel01-cyber">
-    <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
   </a>
   <a href="mailto:TU_CORREO@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
+    <img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-E74C3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Correo electrónico">
   </a>
   <a href="https://TU-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-Pr%C3%B3ximamente-C0392B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Pr%C3%B3ximamente-a371f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Madrid-Espa%C3%B1a-8B0000?style=flat-square&logo=googlemaps&logoColor=white" alt="Madrid, España">
-  <img src="https://img.shields.io/badge/DAW-2%C2%BA%20curso-E74C3C?style=flat-square" alt="2º de DAW">
+  <img src="https://img.shields.io/badge/status-open%20to%20work-3fb950?style=flat-square&labelColor=0d1117" alt="Estado: abierto a oportunidades">
+  <img src="https://img.shields.io/badge/location-Madrid%2C%20ES-58a6ff?style=flat-square&labelColor=0d1117" alt="Madrid, España">
+  <img src="https://img.shields.io/badge/DAW-2%C2%BA%20curso-a371f7?style=flat-square&labelColor=0d1117" alt="2º de DAW">
+  <img src="https://img.shields.io/badge/coffee-%E2%88%9E-E74C3C?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=0d1117" alt="Café infinito">
   <!-- Contador de visitas a tu perfil -->
-  <img src="https://komarev.com/ghpvc/?username=ndongandemejesusmanuel01-cyber&label=Visitas&color=8B0000&style=flat-square" alt="Visitas al perfil">
+  <img src="https://komarev.com/ghpvc/?username=ndongandemejesusmanuel01-cyber&label=visitas&color=3fb950&style=flat-square&labelColor=0d1117" alt="Visitas al perfil">
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
 <!-- ============ 3. SOBRE MÍ ============
-     El "terminal" (assets/terminal.svg) escribe su texto como si se tecleara.
-     Debajo, una lista rápida. Edita las frases con tu estilo. -->
-## 👨‍💻 Sobre mí
+     Cada título de sección es una imagen animada (assets/titulo-*.svg).
+     Después, un terminal animado y un bloque de código JavaScript con tus datos:
+     GitHub le pone los colores de sintaxis automáticamente. -->
+<img src="./assets/titulo-sobre-mi.svg" alt="$ cat sobre_mi.md" width="100%">
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal: whoami, cat stack.txt, git status" width="80%">
+  <img src="./assets/terminal.svg" alt="Terminal: whoami, cat stack.txt, git status" width="85%">
 </p>
 
-- 🎓 Estudio **2º de Desarrollo de Aplicaciones Web (DAW)**.
-- 📍 Vivo en **Madrid**.
-- 🔭 Ahora mismo practico **Java + JDBC + MySQL** y maquetación **responsive** con CSS Grid y Flexbox.
-- 🌱 Quiero profundizar en **back-end** y en **frameworks** modernos.
-- 💼 Busco **prácticas (FCT) y mi primer trabajo** como desarrollador web.
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript, PHP, Java o SQL**.
-- ⚡ Me motiva ver cómo una idea acaba siendo una página que funciona.
+```js
+// jesus.js
+const jesus = {
+  nombre:      "Jesús Manuel Ndong Andeme",
+  rol:         "Estudiante de DAW (2º curso)",
+  ubicacion:   "Madrid, España",
+  stack:       ["HTML", "CSS", "JavaScript", "PHP", "Java", "MySQL"],
+  practicando: ["Java + JDBC", "SQL avanzado", "CSS Grid y Flexbox", "Git"],
+  buscando:    "Prácticas (FCT) y primer empleo como desarrollador web",
+  motivacion:  "Ver cómo una idea acaba siendo una página que funciona",
+  lema:        "Siempre aprendiendo, construyendo y mejorando.",
+
+  saludar() {
+    return "¡Hola! Encantado de conocerte 👋";
+  },
+};
+```
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
 <!-- ============ 4. TECNOLOGÍAS ============
-     Los iconos los genera skillicons.dev. Para añadir o quitar uno,
-     cambia la lista separada por comas (i=html,css,js...). -->
-## 🛠️ Tecnologías y herramientas
+     Iconos de skillicons.dev. Para añadir o quitar uno, cambia la lista (i=html,css,...). -->
+<img src="./assets/titulo-tecnologias.svg" alt="$ ls ./tecnologias" width="100%">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github,vscode,eclipse&perline=10" alt="HTML, CSS, JavaScript, PHP, Java, MySQL, Git, GitHub, Visual Studio Code y Eclipse">
@@ -78,12 +94,12 @@
 
 | Área | Tecnologías |
 |---|---|
-| 🎨 **Front-end** | HTML5 semántico, CSS3 (Grid, Flexbox, responsive), JavaScript |
-| ⚙️ **Back-end** | PHP y Java (JDBC, patrón DAO) |
-| 🗄️ **Bases de datos** | SQL y MySQL (JOIN, GROUP BY, HAVING…) |
-| 🧰 **Herramientas** | Git, GitHub, Visual Studio Code y Eclipse |
+| 🎨 **Front-end** | HTML5 semántico · CSS3 (Grid, Flexbox, responsive) · JavaScript |
+| ⚙️ **Back-end** | PHP · Java (JDBC, patrón DAO) |
+| 🗄️ **Bases de datos** | SQL · MySQL (JOIN, GROUP BY, HAVING…) |
+| 🧰 **Herramientas** | Git · GitHub · Visual Studio Code · Eclipse |
 
-**🚀 Aprendiendo a continuación:**
+**🚀 En el radar (lo siguiente que quiero aprender):**
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,spring" alt="TypeScript, React y Spring">
@@ -92,7 +108,34 @@
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
-<!-- ============ 5. PROYECTOS ============
+<!-- ============ 5. MI CAMINO ============
+     Un diagrama (mermaid, GitHub lo dibuja solo) y un "git log" en bloque diff,
+     que pinta las líneas con + en verde. Edita los mensajes con tus logros. -->
+<img src="./assets/titulo-camino.svg" alt="$ git log --oneline" width="100%">
+
+```mermaid
+flowchart LR
+    A["💻 DAW 1º<br/>bases de la web"] --> B["🚀 DAW 2º<br/>ahora mismo"]
+    B --> C["🤝 FCT<br/>prácticas en empresa"]
+    C --> D["👨‍💻 Primer empleo<br/>como desarrollador"]
+    B -.-> E["📂 Portfolio<br/>y nuevos proyectos"]
+    classDef ahora fill:#8B0000,stroke:#E74C3C,color:#ffffff,stroke-width:2px;
+    class B ahora;
+```
+
+```diff
++ feat: web responsive de Carnicería Paco (HTML + CSS Grid + Flexbox)
++ feat: menú hamburguesa en CSS puro, sin una línea de JavaScript
++ feat: tienda online con Java + JDBC + MySQL (patrón DAO)
++ feat: consultas SQL con JOIN, LEFT JOIN, GROUP BY y HAVING
+- bug: tarjetas apiladas por un <article> sin cerrar (¡arreglado!)
+! wip: portfolio personal y nuevos proyectos en camino
+```
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+
+
+<!-- ============ 6. PROYECTOS ============
      Tres huecos para tus próximos trabajos. Para rellenar cada uno:
        a) Cambia NOMBRE_REPO_1 por el nombre real del repositorio (enlace).
        b) Cambia el título y la descripción.
@@ -101,7 +144,7 @@
        d) Cambia las insignias de tecnologías.
      Ideas que ya tienes hechas: la web de Carnicería Paco (HTML y CSS responsive)
      y la Tienda Online (Java + JDBC + MySQL). -->
-## 📂 Mis proyectos
+<img src="./assets/titulo-proyectos.svg" alt="$ cd ./proyectos" width="100%">
 
 <table>
   <tr>
@@ -150,29 +193,37 @@
 </table>
 
 <!-- Proyecto que ya tienes publicado -->
-**⭐ Proyecto destacado:** [**Presentation**](https://github.com/ndongandemejesusmanuel01-cyber/Presentation): mi proyecto de presentación y trabajo de desarrollo web.
+**⭐ Proyecto destacado:** [**Presentation**](https://github.com/ndongandemejesusmanuel01-cyber/Presentation) · mi proyecto de presentación y trabajo de desarrollo web.
 
-> 🔧 Iré añadiendo aquí nuevos proyectos y prácticas. Mira [todos mis repositorios](https://github.com/ndongandemejesusmanuel01-cyber?tab=repositories).
+> 🔧 `// TODO:` seguir añadiendo proyectos y prácticas. Mira [todos mis repositorios](https://github.com/ndongandemejesusmanuel01-cyber?tab=repositories).
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
-<!-- ============ 6. ESTADÍSTICAS ============
-     Tarjetas generadas en vivo con tus datos de GitHub. Los colores (hex sin #)
-     coinciden con la paleta granate de la cabecera. Si una tarjeta no carga a
-     veces, es normal: estos servicios gratuitos se saturan; se arregla recargando. -->
-## 📊 Estadísticas de GitHub
+<!-- ============ 7. ESTADÍSTICAS ============
+     Tarjetas generadas en vivo con tus datos de GitHub, con colores de editor oscuro.
+     Si alguna no carga a veces es normal: estos servicios gratuitos se saturan.
+     Se arregla recargando la página. -->
+<img src="./assets/titulo-estadisticas.svg" alt="$ npm run estadisticas" width="100%">
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ndongandemejesusmanuel01-cyber&show_icons=true&hide_border=false&bg_color=0d1117&border_color=8B0000&title_color=E74C3C&icon_color=C0392B&text_color=c9d1d9" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndongandemejesusmanuel01-cyber&layout=compact&bg_color=0d1117&border_color=8B0000&title_color=E74C3C&text_color=c9d1d9" alt="Lenguajes más utilizados">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ndongandemejesusmanuel01-cyber&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9" alt="Estadísticas de GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndongandemejesusmanuel01-cyber&layout=compact&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Lenguajes más utilizados">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ndongandemejesusmanuel01-cyber&background=0d1117&border=8B0000&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Racha de contribuciones">
+  <img src="https://streak-stats.demolab.com/?user=ndongandemejesusmanuel01-cyber&background=0d1117&border=30363d&ring=7ee787&fire=E74C3C&currStreakLabel=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=58a6ff&dates=8b949e" alt="Racha de contribuciones">
 </p>
 
-<!-- ============ 7. SERPIENTE DE CONTRIBUCIONES (OPCIONAL) ============
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndongandemejesusmanuel01-cyber&bg_color=0d1117&color=7ee787&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Actividad%20reciente" alt="Gráfica de actividad" width="95%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndongandemejesusmanuel01-cyber&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trofeos de GitHub">
+</p>
+
+<!-- ============ 8. SERPIENTE DE CONTRIBUCIONES (OPCIONAL) ============
      Para activarla:
        1. Sube la carpeta .github/ (ya incluye snake.yml).
        2. En tu repositorio ve a Actions, elige "Generar serpiente" y pulsa "Run workflow".
@@ -192,29 +243,33 @@
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
-<!-- ============ 8. CONTACTO ============
+<!-- ============ 9. CONTACTO ============
      Mismos datos que los botones de arriba: cámbialos también aquí. -->
-## 📬 Contacto
+<img src="./assets/titulo-contacto.svg" alt="$ mail --to jesus" width="100%">
 
-¿Tienes una idea, una oferta de prácticas o simplemente quieres charlar de código? **¡Escríbeme!**
+```js
+// ¿Una idea, unas prácticas o simplemente charlar de código?
+contactar("TU_CORREO@gmail.com");   // respondo rápido ⚡
+```
 
 <p>
   <a href="mailto:TU_CORREO@gmail.com">
-    <img src="https://img.shields.io/badge/Email-TU__CORREO%40gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
+    <img src="https://img.shields.io/badge/Email-TU__CORREO%40gmail.com-E74C3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Correo electrónico">
   </a>
   <a href="https://TU-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-TU--PORTFOLIO.com-C0392B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-TU--PORTFOLIO.com-a371f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
   </a>
   <a href="https://github.com/ndongandemejesusmanuel01-cyber">
-    <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
   </a>
 </p>
 
+<br>
 
-<!-- ============ 9. PIE ANIMADO ============ -->
+<!-- ============ 10. PIE ANIMADO ============ -->
 <div align="center">
-  <img src="./assets/footer.svg" alt="Gracias por pasarte por aquí. Siempre aprendiendo, construyendo y mejorando." width="100%">
+  <img src="./assets/footer.svg" alt="console.log: Gracias por pasarte por aquí. Siempre aprendiendo, construyendo y mejorando." width="100%">
 </div>

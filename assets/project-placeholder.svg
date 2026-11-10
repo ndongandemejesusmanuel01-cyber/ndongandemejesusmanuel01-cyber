@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250" role="img" aria-label="Espacio reservado para un próximo proyecto">
+  <rect x="1" y="1" width="398" height="248" rx="12" fill="#0d1117" stroke="#8B0000" stroke-width="2" stroke-dasharray="10 6">
+    <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M1 13 A12 12 0 0 1 13 1 H387 A12 12 0 0 1 399 13 V34 H1 Z" fill="#161b22"/>
+  <circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="18" r="5" fill="#27c93f"/>
+  <text x="200" y="23" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#8b949e">proximo_proyecto.js</text>
+
+  <g font-family="'Courier New', Consolas, monospace" font-size="15" xml:space="preserve">
+    <text x="22" y="68" fill="#6a9955">// TODO</text>
+    <rect x="22" y="52" width="120" height="22" fill="#0d1117"><animate attributeName="x" from="22" to="142" begin="0.4s" dur="0.5s" fill="freeze"/><animate attributeName="width" from="120" to="0" begin="0.4s" dur="0.5s" fill="freeze"/></rect>
+
+    <text x="22" y="96"><tspan fill="#569cd6">const</tspan> <tspan fill="#9cdcfe">proyecto</tspan> <tspan fill="#d4d4d4">= {</tspan></text>
+    <rect x="22" y="80" width="330" height="22" fill="#0d1117"><animate attributeName="x" from="22" to="352" begin="1s" dur="0.9s" fill="freeze"/><animate attributeName="width" from="330" to="0" begin="1s" dur="0.9s" fill="freeze"/></rect>
+
+    <text x="40" y="124"><tspan fill="#9cdcfe">estado</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"en construcción"</tspan><tspan fill="#d4d4d4">,</tspan></text>
+    <rect x="40" y="108" width="330" height="22" fill="#0d1117"><animate attributeName="x" from="40" to="370" begin="2s" dur="1.2s" fill="freeze"/><animate attributeName="width" from="330" to="0" begin="2s" dur="1.2s" fill="freeze"/></rect>
+
+    <text x="40" y="152"><tspan fill="#9cdcfe">lanzamiento</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"muy pronto"</tspan></text>
+    <rect x="40" y="136" width="330" height="22" fill="#0d1117"><animate attributeName="x" from="40" to="370" begin="3.4s" dur="1s" fill="freeze"/><animate attributeName="width" from="330" to="0" begin="3.4s" dur="1s" fill="freeze"/></rect>
+
+    <text x="22" y="180" fill="#d4d4d4">};</text>
+    <rect x="22" y="164" width="60" height="22" fill="#0d1117"><animate attributeName="x" from="22" to="82" begin="4.6s" dur="0.3s" fill="freeze"/><animate attributeName="width" from="60" to="0" begin="4.6s" dur="0.3s" fill="freeze"/></rect>
+
+    <text x="22" y="214"><tspan fill="#dcdcaa">build</tspan><tspan fill="#d4d4d4">(); </tspan><tspan fill="#dcdcaa">ship</tspan><tspan fill="#d4d4d4">();</tspan></text>
+    <rect x="22" y="198" width="200" height="22" fill="#0d1117"><animate attributeName="x" from="22" to="222" begin="5.1s" dur="0.7s" fill="freeze"/><animate attributeName="width" from="200" to="0" begin="5.1s" dur="0.7s" fill="freeze"/></rect>
+
+    <rect x="130" y="200" width="9" height="17" fill="#7ee787" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1s" begin="5.9s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

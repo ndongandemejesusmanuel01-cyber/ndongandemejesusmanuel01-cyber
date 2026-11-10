@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-label="Gracias por pasarte por aquí. Siempre aprendiendo, construyendo y mejorando.">
+  <rect x="1" y="1" width="998" height="128" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M1 15 A14 14 0 0 1 15 1 H985 A14 14 0 0 1 999 15 V6 H1 Z" fill="#8B0000"/>
+  <g font-family="'Courier New', Consolas, monospace" font-size="22" text-anchor="middle" xml:space="preserve">
+    <text x="500" y="62"><tspan fill="#9cdcfe">console</tspan><tspan fill="#d4d4d4">.</tspan><tspan fill="#dcdcaa">log</tspan><tspan fill="#d4d4d4">(</tspan><tspan fill="#ce9178">"Gracias por pasarte por aquí"</tspan><tspan fill="#d4d4d4">);</tspan></text>
+    <rect x="60" y="38" width="880" height="34" fill="#0d1117">
+      <animate attributeName="x" from="60" to="940" dur="2s" fill="freeze"/>
+      <animate attributeName="width" from="880" to="0" dur="2s" fill="freeze"/>
+    </rect>
+    <text x="500" y="102" fill="#6a9955">// Siempre aprendiendo, construyendo y mejorando.</text>
+    <rect x="60" y="78" width="880" height="34" fill="#0d1117">
+      <animate attributeName="x" from="60" to="940" begin="2.2s" dur="2s" fill="freeze"/>
+      <animate attributeName="width" from="880" to="0" begin="2.2s" dur="2s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>

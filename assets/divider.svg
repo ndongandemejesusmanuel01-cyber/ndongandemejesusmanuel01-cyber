@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="presentation">
+  <defs>
+    <linearGradient id="brillo">
+      <stop offset="0" stop-color="#7ee787" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#7ee787" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11" width="430" height="2" rx="1" fill="#30363d"/>
+  <rect x="570" y="11" width="430" height="2" rx="1" fill="#30363d"/>
+  <rect y="10" width="240" height="4" rx="2" fill="url(#brillo)">
+    <animate attributeName="x" from="-240" to="1000" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="500" y="17" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" font-weight="700" fill="#E74C3C">&lt;/&gt;
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
