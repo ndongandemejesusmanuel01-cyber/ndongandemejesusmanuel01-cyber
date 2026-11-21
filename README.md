@@ -109,62 +109,71 @@ flowchart LR
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
+
 <!-- ============ 6. PROYECTOS ============ -->
 <img src="./assets/titulo-proyectos.svg" alt="$ cd ./proyectos" width="100%">
 
 <table>
   <tr>
-    <!-- NUEVO PROYECTO: TIERRA 3D -->
+    <!-- PROYECTO 1 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/ndongandemejesusmanuel01-cyber">
+        <img src="./assets/project-placeholder.svg" alt="Carnicería Paco" width="100%">
+      </a>
+      <br><br>
+      <b>Carnicería Paco</b>
+      <br>
+      Rediseño de una página web para una carnicería, con catálogo de productos, galería y diseño responsive.
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    </td>
+
+    <!-- PROYECTO 2 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/ndongandemejesusmanuel01-cyber/Presentation">
+        <img src="./assets/project-placeholder.svg" alt="Presentation" width="100%">
+      </a>
+      <br><br>
+      <b>Presentation</b>
+      <br>
+      Proyecto de presentación personal y desarrollo de habilidades tecnológicas.
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    </td>
+
+    <!-- PROYECTO 3 -->
     <td align="center" width="33%">
       <a href="https://ndongandemejesusmanuel01-cyber.github.io/Web_animada/">
         <img src="./assets/project-placeholder.svg" alt="Tierra 3D" width="100%">
       </a>
       <br><br>
-      <b>🌍 Tierra 3D</b>
+      <b>Tierra 3D 🌍</b>
       <br>
-      Web interactiva para explorar el planeta Tierra en 3D, girar el globo y descubrir continentes, océanos, clima y sus diferentes capas.
+      Experiencia web interactiva para explorar nuestro planeta en 3D, descubrir continentes, océanos, atmósfera y estaciones.
       <br><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <br><br>
-      <a href="https://ndongandemejesusmanuel01-cyber.github.io/Web_animada/">🔗 Ver proyecto</a>
-    </td>
-
-    <!-- HUECO 2 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/ndongandemejesusmanuel01-cyber/NOMBRE_REPO_2">
-        <img src="./assets/project-placeholder.svg" alt="Proyecto 2" width="100%">
+      <a href="https://ndongandemejesusmanuel01-cyber.github.io/Web_animada/">
+        <img src="https://img.shields.io/badge/VER%20PROYECTO-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Tierra 3D">
       </a>
-      <br><br>
-      <b>Nombre del proyecto 2</b>
-      <br>
-      Descripción corta de qué hace y qué aprendiste.
-      <br><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-    </td>
-
-    <!-- HUECO 3 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/ndongandemejesusmanuel01-cyber/NOMBRE_REPO_3">
-        <img src="./assets/project-placeholder.svg" alt="Proyecto 3" width="100%">
-      </a>
-      <br><br>
-      <b>Nombre del proyecto 3</b>
-      <br>
-      Descripción corta de qué hace y qué aprendiste.
-      <br><br>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     </td>
   </tr>
 </table>
 
-<!-- Proyecto que ya tienes publicado -->
-**⭐ Proyecto destacado:** [**Presentation**](https://github.com/ndongandemejesusmanuel01-cyber/Presentation) · mi proyecto de presentación y trabajo de desarrollo web.
+**⭐ Otros trabajos de desarrollo:**
 
-> 🔧 `// TODO:` seguir añadiendo proyectos y prácticas. Mira [todos mis repositorios](https://github.com/ndongandemejesusmanuel01-cyber?tab=repositories).
+- **Tienda Online:** aplicación desarrollada con Java, JDBC y MySQL utilizando el patrón DAO.
+- **Adivina el Mundial:** proyecto interactivo sobre los balones de las Copas del Mundo.
+
+<p align="center">
+  <a href="https://github.com/ndongandemejesusmanuel01-cyber?tab=repositories">
+    <img src="https://img.shields.io/badge/VER%20TODOS%20MIS%20PROYECTOS-GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Todos mis proyectos">
+  </a>
+</p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
