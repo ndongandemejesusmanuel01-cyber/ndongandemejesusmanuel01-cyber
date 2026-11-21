@@ -225,20 +225,65 @@ flowchart LR
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
     </td>
 
-    <!-- PROYECTO 6 -->
-    <td align="center" width="50%">
-      <a href="https://github.com/ndongandemejesusmanuel01-cyber?tab=repositories">
-        <img src="./assets/project-placeholder.svg" alt="Sabor a Pueblo" width="100%">
+<!-- ============ 6. PROYECTOS ============ -->
+<img src="./assets/titulo-proyectos.svg" alt="$ cd ./proyectos" width="100%">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/ndongandemejesusmanuel01-cyber/carniceria-paco">
+        <img src="./assets/project-placeholder.svg" alt="Carnicería Paco" width="100%">
       </a>
       <br><br>
-      <b>🍲 Sabor a Pueblo</b>
+      <b>Carnicería Paco</b>
       <br>
-      Proyecto web de un restaurante ecuatoguineano en Zaragoza, con identidad cultural, carta gastronómica y diseño visual.
+      Rediseño de una página web para una carnicería, con catálogo de productos, galería y contacto.
       <br><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <br>
+      [Ver repositorio](https://github.com/ndongandemejesusmanuel01-cyber/carniceria-paco)
     </td>
+
+    <td align="center" width="33%">
+      <a href="https://github.com/ndongandemejesusmanuel01-cyber/Presentation">
+        <img src="./assets/project-placeholder.svg" alt="Presentation" width="100%">
+      </a>
+      <br><br>
+      <b>Presentation</b>
+      <br>
+      Proyecto de presentación personal y desarrollo web.
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <br>
+      [Ver repositorio](https://github.com/ndongandemejesusmanuel01-cyber/Presentation)
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://ndongandemejesusmanuel01-cyber.github.io/Web_animada/">
+        <img src="./assets/project-placeholder.svg" alt="Tierra 3D Web animada" width="100%">
+      </a>
+      <br><br>
+      <b>Tierra 3D — Web animada</b>
+      <br>
+      Proyecto web animado e interactivo publicado con GitHub Pages.
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <br>
+      [Ver proyecto online](https://ndongandemejesusmanuel01-cyber.github.io/Web_animada/)
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>Más proyectos:</b>
+  <a href="https://github.com/ndongandemejesusmanuel01-cyber?tab=repositories">Explorar todos mis repositorios en GitHub</a>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+
   </tr>
 
   <tr>
