@@ -1,31 +1,11 @@
-<!--
-  ================================================================
-  README DE PERFIL DE GITHUB · Jesús Manuel Ndong Andeme
-  Estilo "programador": terminal, editor de código y consola.
-  ================================================================
-  CÓMO USARLO
-  1. Crea un repositorio PÚBLICO con el MISMO nombre que tu usuario:
-     ndongandemejesusmanuel01-cyber / ndongandemejesusmanuel01-cyber
-  2. Sube a la RAÍZ de ese repositorio: README.md, la carpeta assets/ y la carpeta .github/
-  3. Busca los textos que empiezan por TU_ o NOMBRE_ y cámbialos por los tuyos.
-  4. Los comentarios como este NO se ven en GitHub. Puedes borrarlos.
-
-  Si ves la página "en blanco" o sin imágenes: comprueba que la carpeta assets/
-  está en la raíz del repositorio (al lado de README.md), no dentro de otra carpeta.
--->
-
-
-<!-- ============ 1. CABECERA ANIMADA ============
-     assets/header.svg: lluvia de código estilo Matrix y tu nombre tecleándose. -->
+<!-- ============ 1. CABECERA ANIMADA ============ -->
 <div align="center">
   <img src="./assets/header.svg" alt="Jesús Manuel Ndong Andeme · Estudiante de DAW en Madrid" width="100%">
 </div>
 
 <br>
 
-<!-- ============ 2. ENLACES (botones) ============
-     CAMBIA: TU-USUARIO-LINKEDIN, TU_CORREO@gmail.com y https://TU-PORTFOLIO.com
-     labelColor=0d1117 da el fondo oscuro de "editor" a todas las insignias. -->
+<!-- ============ 2. ENLACES (botones) ============ -->
 <p align="center">
   <a href="https://github.com/ndongandemejesusmanuel01-cyber">
     <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
@@ -46,17 +26,13 @@
   <img src="https://img.shields.io/badge/location-Madrid%2C%20ES-58a6ff?style=flat-square&labelColor=0d1117" alt="Madrid, España">
   <img src="https://img.shields.io/badge/DAW-2%C2%BA%20curso-a371f7?style=flat-square&labelColor=0d1117" alt="2º de DAW">
   <img src="https://img.shields.io/badge/coffee-%E2%88%9E-E74C3C?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=0d1117" alt="Café infinito">
-  <!-- Contador de visitas a tu perfil -->
   <img src="https://komarev.com/ghpvc/?username=ndongandemejesusmanuel01-cyber&label=visitas&color=3fb950&style=flat-square&labelColor=0d1117" alt="Visitas al perfil">
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
-<!-- ============ 3. SOBRE MÍ ============
-     Cada título de sección es una imagen animada (assets/titulo-*.svg).
-     Después, un terminal animado y un bloque de código JavaScript con tus datos:
-     GitHub le pone los colores de sintaxis automáticamente. -->
+<!-- ============ 3. SOBRE MÍ ============ -->
 <img src="./assets/titulo-sobre-mi.svg" alt="$ cat sobre_mi.md" width="100%">
 
 <p align="center">
@@ -84,8 +60,7 @@ const jesus = {
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
-<!-- ============ 4. TECNOLOGÍAS ============
-     Iconos de skillicons.dev. Para añadir o quitar uno, cambia la lista (i=html,css,...). -->
+<!-- ============ 4. TECNOLOGÍAS ============ -->
 <img src="./assets/titulo-tecnologias.svg" alt="$ ls ./tecnologias" width="100%">
 
 <p align="center">
@@ -108,9 +83,7 @@ const jesus = {
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
-<!-- ============ 5. MI CAMINO ============
-     Un diagrama (mermaid, GitHub lo dibuja solo) y un "git log" en bloque diff,
-     que pinta las líneas con + en verde. Edita los mensajes con tus logros. -->
+<!-- ============ 5. MI CAMINO ============ -->
 <img src="./assets/titulo-camino.svg" alt="$ git log --oneline" width="100%">
 
 ```mermaid
@@ -128,6 +101,7 @@ flowchart LR
 + feat: menú hamburguesa en CSS puro, sin una línea de JavaScript
 + feat: tienda online con Java + JDBC + MySQL (patrón DAO)
 + feat: consultas SQL con JOIN, LEFT JOIN, GROUP BY y HAVING
++ feat: Tierra 3D, web interactiva para explorar el planeta
 - bug: tarjetas apiladas por un <article> sin cerrar (¡arreglado!)
 ! wip: portfolio personal y nuevos proyectos en camino
 ```
@@ -135,31 +109,26 @@ flowchart LR
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
-<!-- ============ 6. PROYECTOS ============
-     Tres huecos para tus próximos trabajos. Para rellenar cada uno:
-       a) Cambia NOMBRE_REPO_1 por el nombre real del repositorio (enlace).
-       b) Cambia el título y la descripción.
-       c) Sustituye ./assets/project-placeholder.svg por una captura tuya,
-          por ejemplo ./assets/proyecto1.png (súbela a la carpeta assets).
-       d) Cambia las insignias de tecnologías.
-     Ideas que ya tienes hechas: la web de Carnicería Paco (HTML y CSS responsive)
-     y la Tienda Online (Java + JDBC + MySQL). -->
+<!-- ============ 6. PROYECTOS ============ -->
 <img src="./assets/titulo-proyectos.svg" alt="$ cd ./proyectos" width="100%">
 
 <table>
   <tr>
-    <!-- HUECO 1 -->
+    <!-- NUEVO PROYECTO: TIERRA 3D -->
     <td align="center" width="33%">
-      <a href="https://github.com/ndongandemejesusmanuel01-cyber/NOMBRE_REPO_1">
-        <img src="./assets/project-placeholder.svg" alt="Proyecto 1" width="100%">
+      <a href="https://ndongandemejesusmanuel01-cyber.github.io/Web_animada/">
+        <img src="./assets/project-placeholder.svg" alt="Tierra 3D" width="100%">
       </a>
       <br><br>
-      <b>Nombre del proyecto 1</b>
+      <b>🌍 Tierra 3D</b>
       <br>
-      Descripción corta de qué hace y qué aprendiste.
+      Web interactiva para explorar el planeta Tierra en 3D, girar el globo y descubrir continentes, océanos, clima y sus diferentes capas.
       <br><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <br><br>
+      <a href="https://ndongandemejesusmanuel01-cyber.github.io/Web_animada/">🔗 Ver proyecto</a>
     </td>
 
     <!-- HUECO 2 -->
@@ -200,10 +169,7 @@ flowchart LR
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
-<!-- ============ 7. ESTADÍSTICAS ============
-     Tarjetas generadas en vivo con tus datos de GitHub, con colores de editor oscuro.
-     Si alguna no carga a veces es normal: estos servicios gratuitos se saturan.
-     Se arregla recargando la página. -->
+<!-- ============ 7. ESTADÍSTICAS ============ -->
 <img src="./assets/titulo-estadisticas.svg" alt="$ npm run estadisticas" width="100%">
 
 <p align="center">
@@ -243,8 +209,7 @@ flowchart LR
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 
-<!-- ============ 9. CONTACTO ============
-     Mismos datos que los botones de arriba: cámbialos también aquí. -->
+<!-- ============ 9. CONTACTO ============ -->
 <img src="./assets/titulo-contacto.svg" alt="$ mail --to jesus" width="100%">
 
 ```js
